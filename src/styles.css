@@ -8,8 +8,10 @@ body {
   background-color: rgb(255, 231, 200);
 }
 
-a {
-  display: center;
+.crois {
+  border-radius: 30px;
+  display: block;
+  margin: 30px auto;
 }
 
 h3 {
