@@ -1,8 +1,22 @@
 h1 {
   color: blueviolet;
   text-align: center;
+  font-size: 84px;
 }
 
 body {
   background-color: rgb(255, 231, 200);
+}
+
+a {
+  display: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 28px;
+}
+
+p {
+  font-size: 24px;
 }
